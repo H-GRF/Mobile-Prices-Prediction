@@ -3,7 +3,6 @@
 
 Author: [ Hamza Gouaref]
 Email: [ gouarefhamza@gmail.com]
-GitHub: [Your GitHub Profile Link]
 
 ## Objectives of Midterm Project:
 
